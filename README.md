@@ -20,8 +20,8 @@ I will upload all my practice codes and assignments here.
 |-----------|----------------|
 | hello.cpp | My first C++ program |
 | calculator.cpp | Add, subtract, multiply, divide |
-| loop.cpp | How to use for loop |
-| array.cpp | How to use arrays |
+| loop.cpp | How to use (for loop,while,do-while) |
+
 
 ---
 
@@ -29,10 +29,9 @@ I will upload all my practice codes and assignments here.
 
 - [x] Create GitHub account  
 - [x] Learn basic C++ syntax  
-- [ ] Learn functions  
-- [ ] Learn pointers  
-- [ ] Learn OOP (classes and objects)  
-- [ ] Learn file handling  
+- [ ] Learn functions in C++
+- [ ] Master loops (for, while, do-while)
+  
 
 ---
 
